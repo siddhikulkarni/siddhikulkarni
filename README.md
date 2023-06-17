@@ -2,7 +2,7 @@
 <h3 align="center">A inquiste Full Stackdeveloper from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
 
-- 🌱 I’m currently learning Javascript and its Frameworks **Javascript, React, NodeJs**
+- 🌱 I’m currently learning Javascript and its Frameworks: **Javascript, React, NodeJs**
 
 - 👨‍💻 All of my projects are available at [varad-kulkarni172.github.io](varad-kulkarni172.github.io)
 
@@ -10,7 +10,7 @@
 
 - 📫 You can contact me through **varadkulkarni172@gmail.com**
 
-- ⚡ Fun fact **I can be a pretty fun guy to talk to :)**
+- ⚡ Fun fact: **I can be a pretty fun guy to talk to :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
