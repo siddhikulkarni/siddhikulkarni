@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varad Kulkarni</h1>
-<h3 align="center">A inquiste Full Stack developer</h3>
+<h3 align="center">A inquiste Full Stackdeveloper from India</h3>
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/020/877/125/large_2x/laptop-on-wooden-table-with-coffee-cup-phone-book-glasses-and-cactus-on-top-view-with-space-in-center-free-photo.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&label=Profile%20views&color=0e75b6&style=flat" alt="varad-kulkarni172" /> </p>
 
