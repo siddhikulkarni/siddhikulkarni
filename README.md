@@ -1,4 +1,4 @@
-[![MasterHead]("https://ibb.co/2hgMDtP")](https://varad-kulkarni172.io) 
+[![MasterHead]("https://img.freepik.com/premium-photo/top-view-mobile-phone-computer-laptop-notebook-coffee-cup-plant-wooden-table_649760-288.jpg?w=2000")](https://varad-kulkarni172.io) 
 <h1 align="center">Hi 👋, I'm Varad Kulkarni</h1>
 <h3 align="center">An inquiste Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
