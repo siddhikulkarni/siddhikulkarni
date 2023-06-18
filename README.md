@@ -1,5 +1,5 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
-](https://varad-kulkarni172.io)
+]
 <h1 align="center">Hi 👋, I'm Varad Kulkarni</h1>
 <h3 align="center">An inquiste Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
