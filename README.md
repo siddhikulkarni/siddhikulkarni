@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Varad Kulkarni</h1>
 <h3 align="center">An inquiste Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
