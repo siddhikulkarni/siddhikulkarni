@@ -1,9 +1,7 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
-
 - 🌱 I’m currently learning Javascript and its Frameworks along with TypeScript: **Javascript, React, NodeJs**
 
-- 👨‍💻 All of my projects are available at [varad-kulkarni172.github.io](varad-kulkarni172.github.io)
+- 👨‍💻 You can know more aboot me by clicking on this link : https://linkfree.io/varad-kulkarni172
 
 - 📝 I will express my thoughts on Twitter : @KulVarad172004
 
