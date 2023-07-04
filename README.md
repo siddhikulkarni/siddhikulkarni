@@ -1,7 +1,7 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
 - 🌱 I’m currently learning Javascript and its Frameworks along with TypeScript: **Javascript, React, NodeJs**
 
-- 👨‍💻 You can know more aboot me by clicking on this link : https://linkfree.io/varad-kulkarni172
+- 👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172
 
 - 📝 I will express my thoughts on Twitter : @KulVarad172004
 
