@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kulvarad172004" target="_blank">
-  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesstoday.in%2Ftechnology%2Fnews%2Fstory%2Ftwitters-new-x-logo-changed-while-you-were-asleep-will-evolve-over-time-says-elon-musk-391278-2023-07-26&psig=AOvVaw0_yduE6X2t55MfP-h2mmi-&ust=1696764616104000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjznPTq44EDFQAAAAAdAAAAABAD" alt="kulvarad172004" height="30" width="40" /></a>
+<a href="https://twitter.com/kulvarad172004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulvarad172004" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/varad-kulkarni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Varad Kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/doofenshmirtz._172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doofenshmirtz._172" height="30" width="40" /></a>
 </p>
