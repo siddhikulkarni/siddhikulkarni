@@ -11,8 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kulvarad172004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulvarad172004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varad kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varad kulkarni" height="30" width="40" /></a>
+<a href="https://twitter.com/kulvarad172004" target="_blank">
+  <img align="center" src="https://path_to_your_new_twitter_logo.svg" alt="kulvarad172004" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/varad-kulkarni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Varad Kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/doofenshmirtz._172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doofenshmirtz._172" height="30" width="40" /></a>
 </p>
 
