@@ -1,7 +1,6 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
 
-<img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&color=green" alt="Profile Views" width="50" height="50" />
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=varad-kulkarni172&show_icons=true&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&color=green" alt="Profile Views" width="500" height="15" />
 
 - 🌱 I’m currently learning : **Javascript, Java, Node.js, Express.js, Operating Systems**
 
