@@ -1,4 +1,9 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
+
+## Number of Profile Views
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
+
 - 🌱 I’m currently learning : **Javascript, Java, Node.js, Express.js, Operating Systems**
 
 - 👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172
