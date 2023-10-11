@@ -4,6 +4,10 @@
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
 
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 - 🌱 I’m currently learning : **Javascript, Java, Node.js, Express.js, Operating Systems**
 
 - 👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172
