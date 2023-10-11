@@ -1,6 +1,6 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
 
-<img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&color=green" alt="Profile Views" width="500" height="15" />
+<img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&color=green" alt="Profile Views" width="150" height="25" />
 
 - 🌱 I’m currently learning : **Javascript, Java, Node.js, Express.js, Operating Systems**
 
