@@ -1,10 +1,6 @@
 ![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
 
-## Number of Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=varad-kulkarni172)
-
-## My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
