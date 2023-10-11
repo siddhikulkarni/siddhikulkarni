@@ -2,7 +2,7 @@
 
 ## Number of Profile Views
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
+![Profile Views](https://komarev.com/ghpvc/?username=varad-kulkarni172)
 
 ## My GitHub Stats
 
