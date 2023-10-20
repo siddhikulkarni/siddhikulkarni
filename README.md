@@ -10,7 +10,7 @@
 
 - 📫 You can contact me through **varadkulkarni172@gmail.com**
 
-- ⚡ Fun fact: **I can be a pretty fun guy to talk to :)**
+- ⚡ Fun fact: **`git blame` shows me the author for every error :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
