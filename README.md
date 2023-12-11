@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=varad-kulkarni172&color=green" alt="Profile Views" width="100" height="20" style="object-fit: cover; font-size: 20px;" />
 
-- 🌱 I’m currently learning : **Javascript, Java, Node.js, Express.js, Operating Systems**
+- 🌱 I’m currently learning : **Javascript, Node.js, Express.js, Operating Systems**
 
 - 👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172
 
