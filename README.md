@@ -1,11 +1,25 @@
-# 💫 About Me:
-Hello, I'm Siddhi Kulkarni<br>• Based in SF Bay Area, California<br>• Currently, a Computer Science Graduate Student at Santa Clara University<br>• Two years of experience as a Software Engineer and Data Engineer<br>• How to reach me: siddhikulkarni26@outlook.com
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddhi Kulkarni!;" />
+</h1>
+<br/>
 
+<div align="center">
+ 
+ 🔭 Based in SF Bay Area, California
+ 🌱 Currently, a Computer Science Graduate Student at Santa Clara University
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:siddhikulkarni26@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddhi-kulkarni26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.datascienceportfol.io/siddhikulkarni26" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-kulkarni26) 
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <hr/>
