@@ -6,9 +6,9 @@
 <br/>
 <div align="center">
  
- 🔭 Based in SF Bay Area, California
+ 🔭 Based in Austin, Texas
  
- 🌱 Currently, a Computer Science Graduate Student at Santa Clara University
+ 🌱 A recent Computer Science Graduate Student from Santa Clara University
  
  </div>
  
