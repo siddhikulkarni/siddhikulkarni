@@ -8,8 +8,7 @@
  
  🔭 Based in Austin, Texas
  
- 🌱 A recent Computer Science Graduate Student from Santa Clara University
- 
+ 🔭 Data Engineer | ETL · AWS · Snowflake · LangChain
  </div>
  
 <div align="center"> 
